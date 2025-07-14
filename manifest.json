@@ -9,6 +9,6 @@
   },
   "permissions": ["storage"],
   "icons": {
-    "128": "praneeth.png"
+    "128": "icon.png"
   }
 }
