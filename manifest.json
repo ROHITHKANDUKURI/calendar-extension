@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Simple Calendar Notes",
+  "name": "Praneeth Calendar Notes",
   "version": "1.0",
   "description": "A simple calendar with date-wise notes",
   "action": {
@@ -9,6 +9,6 @@
   },
   "permissions": ["storage"],
   "icons": {
-    "128": "icon.png"
+    "128": "praneeth.png"
   }
 }
